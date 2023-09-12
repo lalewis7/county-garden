@@ -57,7 +57,7 @@ jar cvmf Manifest.txt project.jar -C build .
 
 ## Suggested Use
 
-I would suggest navigating to the customer interface and either creating a new customer or using the account I used for testing (ID:201).
+I would suggest navigating to the customer interface and either creating a new customer or use an exising account.
 From their you will be able to naviagte the different aspects of the customer such as the policies they have what claims they have made and what items are insured.
 After using all the customer naviagtion I suggest checking the adjuster and agent views and see how the data differs from their view.
 
