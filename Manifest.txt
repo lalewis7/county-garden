@@ -1,0 +1,2 @@
+Main-Class: src.CountyGarden
+Class-Path: lib/mysql-connector-j-8.1.0.jar

@@ -1,0 +1,501 @@
+id,name,type,value
+1,4194 Hoffman Lane,house,936390
+2,0191 Loomis Junction,house,695942
+3,465 Rieder Plaza,house,86775
+4,3 Coolidge Parkway,house,95697
+5,974 Beilfuss Junction,house,178672
+6,6319 Laurel Point,house,73966
+7,06 Moose Street,house,132014
+8,81552 Granby Drive,house,510227
+9,620 Algoma Drive,house,651984
+10,7 Melvin Place,house,267788
+11,6 Grasskamp Avenue,house,73574
+12,620 Bluestem Drive,house,531392
+13,2 Lakewood Gardens Circle,house,647787
+14,76785 Talmadge Junction,house,695368
+15,005 Florence Road,house,906976
+16,73 Lukken Point,house,832813
+17,172 Utah Street,house,823928
+18,18737 Sachtjen Place,house,891631
+19,0 Blue Bill Park Pass,house,137401
+20,541 Corben Pass,house,763244
+21,74 5th Alley,house,266450
+22,7505 Onsgard Junction,house,721429
+23,844 Sauthoff Circle,house,766731
+24,6582 Macpherson Lane,house,619837
+25,82 Rowland Drive,house,138344
+26,009 Scoville Plaza,house,236224
+27,3868 Jay Hill,house,741781
+28,31 Sullivan Court,house,338083
+29,82 Waubesa Place,house,89295
+30,787 Brown Center,house,508665
+31,89396 Beilfuss Park,house,269657
+32,737 Esch Center,house,929088
+33,9 Jackson Pass,house,504043
+34,387 Rutledge Terrace,house,295130
+35,95529 Haas Hill,house,613106
+36,5 Golden Leaf Court,house,462122
+37,955 Manley Place,house,921680
+38,5 Hoard Road,house,334207
+39,2 Crest Line Avenue,house,732482
+40,7738 Arrowood Park,house,185448
+41,440 Hazelcrest Point,house,605451
+42,08 Oak Valley Alley,house,278644
+43,48 Steensland Place,house,407471
+44,008 Kim Way,house,700048
+45,39179 Texas Hill,house,185260
+46,6 Canary Avenue,house,101519
+47,8926 Eagle Crest Drive,house,236806
+48,962 Jenna Lane,house,213182
+49,646 Fair Oaks Court,house,687615
+50,6 Mayer Park,house,986877
+51,339 Green Ridge Trail,house,704542
+52,9141 Mosinee Pass,house,871870
+53,17 Daystar Drive,house,102372
+54,313 Elmside Terrace,house,961886
+55,07 Eggendart Lane,house,419322
+56,28401 Red Cloud Way,house,430394
+57,72 Birchwood Lane,house,836479
+58,4 Blaine Circle,house,642546
+59,82197 Memorial Terrace,house,852751
+60,9 Twin Pines Terrace,house,294004
+61,07591 Dayton Point,house,724645
+62,50 Haas Junction,house,951763
+63,1 Sycamore Park,house,447703
+64,05 Hoffman Alley,house,750663
+65,05919 Westridge Point,house,837064
+66,80 Fremont Court,house,927035
+67,28 Sauthoff Hill,house,60718
+68,03140 Miller Street,house,781575
+69,89 Forest Terrace,house,148057
+70,489 Westend Pass,house,707213
+71,38448 Brickson Park Road,house,784810
+72,7350 Weeping Birch Place,house,922711
+73,1686 Golf Plaza,house,435119
+74,284 Village Parkway,house,955155
+75,6 Brentwood Court,house,425729
+76,709 Upham Trail,house,339504
+77,95 Bonner Point,house,678879
+78,7745 Kipling Pass,house,311922
+79,3 Golden Leaf Point,house,635258
+80,7 Waywood Street,house,608523
+81,3317 Swallow Parkway,house,674479
+82,837 Blaine Road,house,849226
+83,91 Onsgard Pass,house,369952
+84,10 Blaine Terrace,house,459658
+85,466 Oak Valley Point,house,516899
+86,4032 Logan Place,house,824997
+87,6399 Rigney Trail,house,497238
+88,845 Cody Place,house,598529
+89,4386 Fallview Way,house,918777
+90,0 1st Alley,house,109368
+91,6242 Debs Terrace,house,249003
+92,463 Redwing Alley,house,206342
+93,60644 Kensington Street,house,976372
+94,82448 Memorial Street,house,485544
+95,2 Acker Park,house,859830
+96,4 Buena Vista Court,house,327091
+97,918 Dwight Court,house,490389
+98,393 Ronald Regan Plaza,house,953127
+99,90438 Paget Parkway,house,65808
+100,5 Fordem Court,house,191983
+101,289 Ohio Park,house,617306
+102,6 Glendale Crossing,house,125130
+103,1245 Stang Crossing,house,972750
+104,2 Kedzie Drive,house,84133
+105,8557 Laurel Trail,house,181204
+106,9 Portage Avenue,house,245140
+107,44 Algoma Alley,house,120128
+108,2 Kensington Lane,house,815748
+109,0762 Arizona Park,house,870415
+110,52556 Longview Center,house,930212
+111,188 Toban Place,house,586433
+112,40 Bluejay Terrace,house,767659
+113,443 Meadow Valley Plaza,house,924875
+114,54473 Bartillon Way,house,327391
+115,77 Lerdahl Drive,house,385535
+116,924 East Pass,house,65848
+117,44 3rd Court,house,88217
+118,3669 Acker Court,house,992701
+119,52 Ilene Point,house,455332
+120,5 Marquette Avenue,house,71375
+121,8 Shelley Place,house,227592
+122,9 Butternut Crossing,house,531191
+123,27 Merrick Avenue,house,230577
+124,38 Golf View Alley,house,277731
+125,5 Merry Crossing,house,980284
+126,2019 Lexus RX,car,24217
+127,2018 Jeep Wrangler,car,25189
+128,2007 Mercedes-Benz C-Class,car,4075
+129,2011 Hyundai Sonata,car,54612
+130,2007 Mercedes-Benz C-Class,car,7332
+131,2016 Tesla Model S,car,12726
+132,2017 Cadillac Escalade,car,10109
+133,2017 BMW 3 Series,car,4611
+134,2007 Mercedes-Benz C-Class,car,5475
+135,2005 Mazda3,car,17682
+136,2017 BMW 3 Series,car,12711
+137,2006 Nissan Altima,car,41544
+138,2019 Lexus RX,car,47178
+139,2018 Jeep Wrangler,car,28113
+140,2014 Porsche 911,car,6831
+141,2019 Lexus RX,car,58591
+142,2008 Toyota Camry,car,9590
+143,2012 Kia Optima,car,10277
+144,2005 Mazda3,car,12792
+145,2016 Tesla Model S,car,21282
+146,2018 Jeep Wrangler,car,50388
+147,2007 Mercedes-Benz C-Class,car,23618
+148,2014 Volkswagen Jetta,car,47075
+149,2019 Lexus RX,car,26335
+150,2017 BMW 3 Series,car,52922
+151,2013 Subaru Outback,car,29916
+152,2015 Honda Civic,car,59860
+153,2010 Ford Mustang,car,39907
+154,2009 GMC Sierra,car,25958
+155,2008 Dodge Ram,car,21013
+156,2006 Nissan Altima,car,40237
+157,2014 Porsche 911,car,28395
+158,2018 Jeep Wrangler,car,45886
+159,2012 Kia Optima,car,15340
+160,2017 BMW 3 Series,car,43830
+161,2012 Kia Optima,car,42992
+162,2016 Tesla Model S,car,29471
+163,2008 Toyota Camry,car,35660
+164,2019 Lexus RX,car,41578
+165,2012 Kia Optima,car,55063
+166,2013 Subaru Outback,car,51264
+167,2008 Toyota Camry,car,58324
+168,2012 Chevrolet Silverado,car,51516
+169,2015 Honda Civic,car,46987
+170,2019 Lexus RX,car,58209
+171,2012 Kia Optima,car,18167
+172,2014 Volkswagen Jetta,car,15222
+173,2014 Porsche 911,car,34633
+174,2012 Kia Optima,car,46648
+175,2005 Mazda3,car,32752
+176,2008 Toyota Camry,car,16648
+177,2012 Chevrolet Silverado,car,44127
+178,2017 Cadillac Escalade,car,17206
+179,2013 Subaru Outback,car,6777
+180,2012 Chevrolet Silverado,car,31967
+181,2019 Lexus RX,car,39530
+182,2009 GMC Sierra,car,16487
+183,2013 Subaru Outback,car,10037
+184,2008 Dodge Ram,car,39622
+185,2014 Porsche 911,car,5080
+186,2016 Tesla Model S,car,58813
+187,2005 Mazda3,car,22014
+188,2019 Lexus RX,car,17477
+189,2013 Subaru Outback,car,19676
+190,2017 BMW 3 Series,car,21436
+191,2013 Subaru Outback,car,55340
+192,2016 Tesla Model S,car,58911
+193,2011 Hyundai Sonata,car,20699
+194,2016 Audi A4,car,22110
+195,2015 Honda Civic,car,2925
+196,2008 Toyota Camry,car,7888
+197,2014 Volkswagen Jetta,car,19968
+198,2010 Ford Mustang,car,58300
+199,2008 Toyota Camry,car,29233
+200,2007 Mercedes-Benz C-Class,car,48932
+201,2005 Mazda3,car,23538
+202,2012 Kia Optima,car,46688
+203,2010 Ford Mustang,car,10512
+204,2008 Dodge Ram,car,32286
+205,2014 Porsche 911,car,17761
+206,2006 Nissan Altima,car,55983
+207,2007 Mercedes-Benz C-Class,car,33161
+208,2006 Nissan Altima,car,40527
+209,2015 Honda Civic,car,27230
+210,2016 Audi A4,car,13256
+211,2007 Mercedes-Benz C-Class,car,25128
+212,2018 Jeep Wrangler,car,33130
+213,2018 Jeep Wrangler,car,25071
+214,2018 Jeep Wrangler,car,39894
+215,2016 Audi A4,car,18699
+216,2012 Chevrolet Silverado,car,7318
+217,2017 BMW 3 Series,car,20674
+218,2017 Cadillac Escalade,car,3898
+219,2008 Toyota Camry,car,5915
+220,2016 Tesla Model S,car,31206
+221,2012 Kia Optima,car,24553
+222,2008 Dodge Ram,car,55472
+223,2014 Porsche 911,car,16249
+224,2008 Dodge Ram,car,54159
+225,2016 Audi A4,car,34240
+226,2019 Lexus RX,car,2929
+227,2014 Porsche 911,car,29618
+228,2017 BMW 3 Series,car,51813
+229,2018 Jeep Wrangler,car,16277
+230,2010 Ford Mustang,car,31224
+231,2013 Subaru Outback,car,22645
+232,2019 Lexus RX,car,35118
+233,2008 Toyota Camry,car,45083
+234,2006 Nissan Altima,car,47561
+235,2013 Subaru Outback,car,49608
+236,2017 Cadillac Escalade,car,48415
+237,2017 Cadillac Escalade,car,56679
+238,2016 Audi A4,car,7195
+239,2016 Audi A4,car,29309
+240,2014 Volkswagen Jetta,car,16718
+241,2007 Mercedes-Benz C-Class,car,30187
+242,2008 Dodge Ram,car,14329
+243,2007 Mercedes-Benz C-Class,car,23044
+244,2005 Mazda3,car,39243
+245,2017 BMW 3 Series,car,10474
+246,2014 Porsche 911,car,16043
+247,2011 Hyundai Sonata,car,23289
+248,2008 Dodge Ram,car,10350
+249,2018 Jeep Wrangler,car,18182
+250,2017 Cadillac Escalade,car,35887
+251,Belucie Luxury Timeless Golden Age Emulsion,drug,453
+252,First Degree,drug,283
+253,Valeriana e rad. 3,drug,9
+254,Mary Kay Suncare Sunscreen SPF 30,drug,90
+255,DAYTIME,drug,82
+256,Lipitor,drug,134
+257,"Butalbital, Acetaminophen, and Caffeine",drug,90
+258,LIPITOR,drug,391
+259,Rabbitbush,drug,252
+260,Metoprolol Tartrate,drug,139
+261,Lovastatin,drug,37
+262,equate daytime nitetime,drug,275
+263,Amoxicillin,drug,43
+264,Verapamil Hydrochloride,drug,376
+265,Kadian,drug,72
+266,VITALUMIERE,drug,468
+267,Severe Daytime,drug,158
+268,Neutrogena OIl Free Moisture,drug,175
+269,SEPHORA Flawless Moisturizing SPF 15 Sunscreen,drug,342
+270,POVIDONE-IODINE,drug,462
+271,Tranexamic Acid,drug,357
+272,LAURA GELLER BEAUTY TUSCAN SUN SPACKLE SPF 30 PROTECTIVE UNDER MAKE-UP PRIMER DEEP,drug,352
+273,Omeprazole,drug,339
+274,Phenylephrine HCl,drug,135
+275,ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic),drug,170
+276,Caffeine Withdrawal,drug,438
+277,Softlips Pure Lip Gloss,drug,475
+278,Sodium Chloride,drug,299
+279,More Than Moisture SPF 30,drug,426
+280,Primidone,drug,396
+281,TRI-LINYAH,drug,122
+282,Birch,drug,87
+283,Sanitex MVP Foam Anti-Bacterial,drug,25
+284,Nadolol,drug,191
+285,06 Balancing Foundation,drug,271
+286,PMS,drug,175
+287,Dexamethasone Sodium Phosphate,drug,444
+288,Phentermine Hydrochloride,drug,64
+289,Clear Proof Clarifying Cleansing Gel,drug,141
+290,Tizanidine,drug,198
+291,Brotapp PE-DM Cough and Cold Liquid,drug,240
+292,Primidone,drug,402
+293,Quetiapine Fumarate,drug,323
+294,Dover Coldonyl,drug,34
+295,Carbidopa and levodopa,drug,79
+296,Sumadan,drug,227
+297,Mycophenolate Mofetil,drug,32
+298,Doxycycline Hyclate,drug,329
+299,Quetiapine fumarate,drug,427
+300,gas relief,drug,232
+301,Amitriptyline Hydrochloride,drug,464
+302,Gelato APF,drug,194
+303,Childrens Pain Relief,drug,474
+304,Plavix,drug,143
+305,NYSTATIN,drug,438
+306,Glipizide,drug,224
+307,Buspirone HCl,drug,410
+308,Pegasys,drug,164
+309,Therapeutic T Plus,drug,418
+310,Ibuprofen,drug,164
+311,pain relief,drug,51
+312,KALI BICHROMICUM,drug,40
+313,Relpax,drug,66
+314,Articaine Hydrochloride and Epinephrine Bitartrate,drug,423
+315,Rifamate,drug,454
+316,SudoGest,drug,193
+317,ESIKA Extreme Moisturizing SPF 16,drug,34
+318,Lamotrigine,drug,290
+319,AHC Revitalizing Special Gen Mask,drug,272
+320,Anticavity,drug,360
+321,Sore Throat,drug,31
+322,ONDANSETRON,drug,396
+323,Trazodone Hydrochloride,drug,389
+324,Outdoor Hands,drug,475
+325,Amlodipine besylate,drug,401
+326,Methylphenidate Hydrochloride,drug,30
+327,DR. RECKEWEG R46 Manurheumin,drug,427
+328,Cyproheptadine Hydrochloride,drug,337
+329,DARAPRIM,drug,178
+330,TOPCARE,drug,282
+331,GOLDKIWI SUN,drug,5
+332,Groundsel,drug,142
+333,Fusarium compactum,drug,243
+334,Sweet Pea Blossom Hand Sanitizer,drug,224
+335,Quinidine Sulfate,drug,426
+336,day time,drug,435
+337,Cephalexin,drug,474
+338,Topiramate,drug,191
+339,equaline lansoprazole,drug,488
+340,Health Mart Nicotine,drug,289
+341,ERGOCALCIFEROL,drug,463
+342,SUPRAX,drug,73
+343,ERYTHROMYCIN ETHYLSUCCINATE AND SULFISOXAZOLE ACETYL,drug,343
+344,MINERALIZE,drug,373
+345,Detox,drug,201
+346,No7 Stay Perfect Foundation Sunscreen SPF 15 Almond,drug,363
+347,Lidocaine Hydrochloride and Epinephrine,drug,25
+348,UREA,drug,46
+349,Walgreens Chap Aid Moisturizer,drug,141
+350,ATORVASTATIN CALCIUM,drug,480
+351,SaniFoam,drug,234
+352,Orphenadrine Citrate,drug,415
+353,Rite Aid RENEWAL,drug,431
+354,Relief OTC antacid,drug,228
+355,Oxycodone Hydrochloride,drug,27
+356,Quadramet,drug,145
+357,Veregen,drug,130
+358,Bisacodyl,drug,402
+359,Nitrofurantion Macrocrystals,drug,162
+360,Hydroxyzine Pamoate,drug,453
+361,Far Away Dreams,drug,250
+362,risedronate sodium,drug,294
+363,Burweed Marsh Elder,drug,208
+364,Diathesis,drug,449
+365,Antiseptic Cleansing Wipes,drug,137
+366,Zolpidem Tartrate,drug,164
+367,Benztropine Mesylate,drug,495
+368,Zylast XP Antiseptic Foaming,drug,163
+369,Carbamazepine,drug,249
+370,Expression,drug,199
+371,Xenazine,drug,69
+372,"Piperacillin, Tazobactam",drug,228
+373,BENZONATATE,drug,453
+374,OASIS Tears Multidose,drug,299
+375,Ready Foundation,drug,145
+376,Blakeley Slowgrove,person,1415625
+377,Claresta Bridges,person,1026040
+378,Lacey Pledger,person,6818453
+379,Thibaut Coleyshaw,person,5090507
+380,Alberta Petto,person,4399467
+381,Piotr Bussell,person,3036310
+382,Malia Bucktharp,person,2975858
+383,Wakefield Kores,person,1945153
+384,Zia Cloake,person,1912943
+385,Susannah Gooble,person,5108630
+386,Carolynn Doiley,person,4069742
+387,Trixie Jewes,person,1876402
+388,Lucilia Biford,person,3702260
+389,Marieann Scourgie,person,9736250
+390,Bartholomew Callaway,person,1018179
+391,Kizzie MacNelly,person,274029
+392,Riley Burgne,person,6851589
+393,Tiebold Tasseler,person,6668983
+394,Paule Roelofs,person,1223891
+395,Janot Blofeld,person,4136178
+396,Trista Kingham,person,340309
+397,Verne Coping,person,2945469
+398,Janean Crosby,person,377724
+399,Lucinda Galbraeth,person,7172378
+400,Rubi Chilver,person,1735287
+401,Tisha Critcher,person,4626848
+402,Harman Baldassi,person,1381454
+403,Luigi McSpirron,person,5659077
+404,Susana Davson,person,8901662
+405,Mordecai Walklott,person,8548094
+406,Lek Anderson,person,1194548
+407,Joane Goodacre,person,4328258
+408,Mahmoud Vasilmanov,person,847167
+409,Delphine Rouge,person,1132995
+410,Sibyl Irving,person,9934528
+411,Adrian Snazle,person,5537394
+412,Jemimah Wreath,person,388413
+413,Esma Woodcraft,person,7945454
+414,Westbrooke Collibear,person,1078149
+415,Lebbie Kneel,person,2168110
+416,Yuma Perrot,person,4848655
+417,Phaedra Baumert,person,6745943
+418,Shelby Liley,person,6561386
+419,Gaspard Condit,person,7521891
+420,Brien Figin,person,4631339
+421,Boycey Semper,person,557165
+422,Niki Ortiger,person,5058321
+423,Letizia Daville,person,1556663
+424,Billy Trimmell,person,3852984
+425,Gerda Eby,person,6698080
+426,Prudy Horrigan,person,3651320
+427,Heriberto Bradie,person,7097421
+428,Siegfried Dyter,person,3780450
+429,Raven Korous,person,7784100
+430,Roobbie Tineman,person,2773668
+431,Marybelle Barr,person,7421169
+432,Rinaldo Grahame,person,6416766
+433,Fraze Hairs,person,9160355
+434,Ogdon Antecki,person,8096787
+435,Meris Tremblett,person,2714881
+436,Sandi Crawshaw,person,8262262
+437,Demetre Goody,person,7203885
+438,Saundra Tollett,person,4309010
+439,Felice Mabbe,person,6715692
+440,Byrom Whinray,person,2002832
+441,Jeff Karsh,person,9291768
+442,Victor Ricciardello,person,886976
+443,Wallache Waldocke,person,7653611
+444,Danice Benham,person,1469154
+445,Travis Flounders,person,7312648
+446,Una Curedell,person,7466917
+447,Mile Roskelly,person,9595687
+448,Malynda Tregenna,person,7238124
+449,Any Heers,person,9274132
+450,Leoline Foulks,person,9443178
+451,Brannon Bragg,person,5266467
+452,Lidia Howsan,person,8918399
+453,Don Rosas,person,8943969
+454,Janelle Mosedale,person,5071934
+455,Caroline Manderson,person,8022821
+456,Britt Rarity,person,3857588
+457,Burnard Spatoni,person,993248
+458,Kenyon Yakunin,person,6180289
+459,Bernelle Hattrick,person,9714940
+460,Benjamin Markwelley,person,8573985
+461,Jacquetta Slott,person,8344044
+462,Llywellyn Hayhoe,person,9063977
+463,Corrianne Carnoghan,person,8111892
+464,Oren Taillard,person,523457
+465,Fredric Dullaghan,person,7150683
+466,Hailey Jerams,person,4752875
+467,Laurent Shearsby,person,5116382
+468,Pacorro Paten,person,3871283
+469,Penrod Doogan,person,8347878
+470,Selena Climpson,person,7778336
+471,Dun Gutteridge,person,1930017
+472,Phaidra Tofanelli,person,4211237
+473,Ilsa Rivenzon,person,931428
+474,Sadie Agate,person,2585298
+475,Bertie Tant,person,4634160
+476,Byrom Downage,person,8940040
+477,Melania Dzeniskevich,person,3871452
+478,Lia Boon,person,1495592
+479,Bartolomeo Farenden,person,830339
+480,Wilhelmine Satcher,person,6843790
+481,Olympie Roisen,person,235872
+482,Shaylyn Jaume,person,1845130
+483,Bertie Allden,person,8701534
+484,Harv Dysert,person,6532946
+485,Miguelita Hum,person,2754637
+486,Ingemar Matic,person,6945426
+487,Ediva Mayne,person,6130679
+488,Niels Buyers,person,9786845
+489,Belle Keys,person,4410676
+490,Brandais MacInherney,person,1539897
+491,Gwendolin Scroyton,person,6186409
+492,Nicolai Madle,person,3464198
+493,Saunders Halt,person,1437004
+494,Malva MacGaughey,person,1621449
+495,Bevan Blaszczynski,person,3149332
+496,Cathleen Dolligon,person,5205721
+497,Marysa Poulsen,person,8982683
+498,Paulo Spur,person,1892534
+499,Lyman Coniam,person,2763603
+500,Adorne O'Cahey,person,6536691
